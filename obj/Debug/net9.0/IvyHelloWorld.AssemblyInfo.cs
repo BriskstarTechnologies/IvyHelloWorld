@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IvyHelloWorld")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47aa0cbd46fceb911719016d2c5ff0ab434a0d30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6336396af7842839af82a674b86e9c4ca8d4fab2")]
 [assembly: System.Reflection.AssemblyProductAttribute("IvyHelloWorld")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IvyHelloWorld")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
